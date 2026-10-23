@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kubet262728.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kubet262728.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://kubet262728.github.io/mywebsite/end-of-game/</loc>
+<lastmod>2026-10-13T09:21:09+02:00</lastmod>
+<image:image>
+<image:loc>https://kubet262728.github.io/mywebsite/media/posts/3//gallery/Screenshot-2026-10-13-090544-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kubet262728.github.io/mywebsite/media/posts/3/gallery/Screenshot-2026-10-13-090444-thumbnail.png</image:loc>
+<image:title><![CDATA[for page 3]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kubet262728.github.io/mywebsite/object-of-the-game/</loc>
+<lastmod>2026-10-13T09:02:18+02:00</lastmod>
+<image:image>
+<image:loc>https://kubet262728.github.io/mywebsite/media/posts/2/gallery/Screenshot-2026-10-13-090049-thumbnail.png</image:loc>
+<image:title><![CDATA[for page 2]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kubet262728.github.io/mywebsite/media/posts/2/gallery/Screenshot-2026-10-13-090111-thumbnail.png</image:loc>
+<image:title><![CDATA[for page 2]]></image:title>
+</image:image>
+</url>
+</urlset>
